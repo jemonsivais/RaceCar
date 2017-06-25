@@ -10,7 +10,3 @@ time to restart the game.
 The right direction button will move the user car to the right if possible.
 
 4. Enemy cars will start going faster and faster as the score goes higher.
-
-https://user-images.githubusercontent.com/25914927/27520378-be4e65f6-59c7-11e7-86f5-59ae1abbe0fa.jpg
-
-https://user-images.githubusercontent.com/25914927/27520378-be4e65f6-59c7-11e7-86f5-59ae1abbe0fa.jpg
