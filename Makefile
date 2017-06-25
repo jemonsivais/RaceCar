@@ -1,10 +1,3 @@
-#
-# Makefile - timer.elf
-#
-# @author Adrian Veliz
-# @author Eric Freudenthal
-# @version 0.1.20130910
-#
 
 all: raceCar.elf
 
